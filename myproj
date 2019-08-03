@@ -1,0 +1,8 @@
+class my {
+	private int counter;
+
+	public my(){
+	
+	}
+
+}
