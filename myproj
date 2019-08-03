@@ -1,8 +1,7 @@
 class my {
 	private string counter;
-
 	public my(){
-	
+
 	}
 
 }
