@@ -27,7 +27,7 @@ class my {
 		else return false;
 	}
 
-	public boolean unitTestCalculateTime(){
+	public boolean unitTestCalculateTime2(){
 		if CalculateIncome(1)==1 return false
 		else return true;
 	}
