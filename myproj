@@ -4,5 +4,9 @@ class my {
 	public my(){
 
 	}
+	public static void Main(String[] Args){
+		Console.log("Hello world");
+	}
+
 
 }
