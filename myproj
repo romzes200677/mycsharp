@@ -1,5 +1,5 @@
 class my {
-	private int counter;
+	private boolean counter;
 	private NewClass myfield;
 	public my(){
 
