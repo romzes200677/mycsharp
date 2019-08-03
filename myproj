@@ -1,8 +1,8 @@
 class my {
 	private int counter;
-
+	private NewClass myfield;
 	public my(){
-	
+
 	}
 
 }
