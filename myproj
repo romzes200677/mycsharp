@@ -1,5 +1,5 @@
 class my {
-	private int counter;
+	private string counter;
 
 	public my(){
 	
