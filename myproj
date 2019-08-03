@@ -11,4 +11,9 @@ class my {
 		return s;
 	}
 
+	public boolean unitTestCalculateTime(){
+		if CalculateIncome(1)==1 return true
+		else return false;
+	}
+
 }
