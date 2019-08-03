@@ -8,5 +8,12 @@ class my {
 		Console.log("Hello world");
 	}
 
+	public boolean GetCounter(){
+		return counter;
+	}
+
+	public void SetCounter(boolean b){
+		this.counter = b;
+	}
 
 }
