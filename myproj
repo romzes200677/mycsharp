@@ -16,4 +16,15 @@ class my {
 		this.counter = b;
 	}
 
+	public int CalculateIncome(int x){
+		int s=0;
+		s=s+x;
+		return s;
+	}
+
+	public boolean unitTestCalculateTime(){
+		if CalculateIncome(1)==1 return true
+		else return false;
+	}
+
 }
