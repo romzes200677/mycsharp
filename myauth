@@ -1,0 +1,9 @@
+class myauth{
+	private sting login;
+	private string password;
+
+	public boolean check(string l,strin p){
+		if (l==login && p == password)
+		return true else return false;
+	}
+}
